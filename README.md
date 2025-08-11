@@ -14,4 +14,4 @@ PASOS PARA EJECUTAR EL JUEGO:
 
 
 
-Creado por [Franco](www.linkedin.com/in/franco-gimenez-335819268) – Técnico en PC y gerente de fábrica textil.
+Creado por [Franco](https://www.linkedin.com/in/franco-gimenez-335819268) – Técnico en PC y gerente de fábrica textil.
